@@ -112,13 +112,13 @@ Although Random Forest is generally a more powerful algorithm, Logistic Regressi
 
 ### Customer Churn Distribution
 
-![Customer Churn Distribution](images/Churn_Distribution.png)
+![Customer Churn Distribution](images/churn_distribution.png)
 
 ---
 
 ### Contract Type vs Churn
 
-![Contract vs Churn](images/Contract_vs_Churn.png)
+![Contract vs Churn](images/contract_vs_churn.png)
 
 ---
 
