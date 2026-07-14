@@ -7,6 +7,27 @@ This project focuses on predicting whether a telecom customer is likely to leave
 I completed this project by following the complete machine learning workflow, starting from data cleaning and exploration to model building and evaluation.
 
 ---
+
+## Dataset
+
+- **Dataset:** IBM Telco Customer Churn Dataset
+- **Total Records:** 7,043 Customers
+- **Target Variable:** Churn (Yes / No)
+
+---
+
+## Technologies Used
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- Jupyter Notebook
+
+---
+
 ## Project Workflow
 
 ```
@@ -30,28 +51,6 @@ Model Evaluation
    ▼
 Business Recommendations
 ```
-## Dataset
-
-- **Dataset:** IBM Telco Customer Churn Dataset
-- **Total Records:** 7,043 Customers
-- **Target Variable:** Churn (Yes / No)
-
----
-
-## Technologies Used
-
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Scikit-learn
-- Jupyter Notebook
-
----
-
-## Project Workflow
-
 ### 1. Data Cleaning
 - Loaded the dataset
 - Checked data types
