@@ -7,7 +7,29 @@ This project focuses on predicting whether a telecom customer is likely to leave
 I completed this project by following the complete machine learning workflow, starting from data cleaning and exploration to model building and evaluation.
 
 ---
+## Project Workflow
 
+```
+Dataset
+   │
+   ▼
+Data Cleaning
+   │
+   ▼
+Exploratory Data Analysis
+   │
+   ▼
+Feature Engineering
+   │
+   ▼
+Model Training
+   │
+   ▼
+Model Evaluation
+   │
+   ▼
+Business Recommendations
+```
 ## Dataset
 
 - **Dataset:** IBM Telco Customer Churn Dataset
