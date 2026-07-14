@@ -105,8 +105,7 @@ I trained and compared the following models:
 | Decision Tree | **71.15%** |
 | Random Forest | **77.25%** |
 
-Among all the models, Logistic Regression gave the best accuracy on this dataset.
-
+Although Random Forest is generally a more powerful algorithm, Logistic Regression performed slightly better on this dataset and achieved the highest accuracy of 78.89%. Therefore, Logistic Regression was selected as the final model.
 ---
 
 ## Important Features
