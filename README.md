@@ -106,6 +106,43 @@ I trained and compared the following models:
 | Random Forest | **77.25%** |
 
 Although Random Forest is generally a more powerful algorithm, Logistic Regression performed slightly better on this dataset and achieved the highest accuracy of 78.89%. Therefore, Logistic Regression was selected as the final model.
+
+---
+## Project Visuals
+
+### Customer Churn Distribution
+
+![Customer Churn Distribution](images/Churn_Distribution.png)
+
+---
+
+### Contract Type vs Churn
+
+![Contract vs Churn](images/Contract_vs_Churn.png)
+
+---
+
+### Internet Service vs Churn
+
+![Internet Service vs Churn](images/internet_service_vs_churn.png)
+
+---
+
+### Monthly Charges by Churn
+
+![Monthly Charges](images/monthly_charges.png)
+
+---
+
+### Correlation Heatmap
+
+![Heatmap](images/heatmap.png)
+
+---
+
+### Model Comparison
+
+![Model Comparison](images/model_comparison.png)
 ---
 
 ## Important Features
